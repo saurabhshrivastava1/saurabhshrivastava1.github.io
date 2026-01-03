@@ -31,5 +31,12 @@ title: Essays
         Subscribe via <a href="{{ '/feed.xml' | relative_url }}" style="color: #999;">RSS</a>
     </footer>
 
+<div id="content">
+    <h2>Essays</h2>
+    <ul>
+        <li>Jan 2026: <a href="{{ '/essays/first-essay' | relative_url }}">The Value of Minimalist Design</a></li>
+    </ul>
+</div>
+
 </body>
 </html>
