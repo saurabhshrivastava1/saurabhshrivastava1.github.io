@@ -16,8 +16,20 @@ title: Books
     <p>A collection of things I've read and liked.</p>
 
     <ul>
-        <li><strong>The Dream Machine</strong> — M. Mitchell Waldrop</li>
-        <li><strong>Working in Public</strong> — Nadia Asparouhova</li>
+        <li><strong>AI Superpowers</strong> — Kai Fu Lee</li>
+        <li><strong>AI 2041</strong> — Kai Fu Lee</li>
+        <li><strong>The Coming Wave</strong> — Mustafa Suleyman</li>
+        <li><strong>Singularity Is Nearer</strong> — Ray Kurzweil</li>
+        <li><strong>The Age of AI</strong> — Eric Schmidt, Et al.</li>
+        <li><strong>The Master Algorithm</strong> — Pedro Domingos</li>
+        <li><strong>Hitchhiker’s Guide to Galaxy</strong> — Douglas Adams</li>
+        <li><strong>The Martian</strong> — Andy Weir</li>
+        <li><strong>Hail Mary</strong> — Andy Weir</li>
+         <li><strong>Indistractable</strong> — Nir Eyal</li>
+        <li><strong>Hooked</strong> — Nir Eyal</li>
+        <li><strong>Baburnama</strong> — Babur</li>
+        <li><strong>The Inner Game of Tennis</strong> — Timothy Gallwey</li>
+
     </ul>
 
 </body>

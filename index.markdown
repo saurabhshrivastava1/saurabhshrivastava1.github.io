@@ -2,9 +2,7 @@
 layout: default
 title: Home
 ---
-
-# Saurabh Shrivastava
-
+## Saurabh Shrivastava
 I'm a builder. This is my corner of the internet.
 
 ### Writing & Lists
