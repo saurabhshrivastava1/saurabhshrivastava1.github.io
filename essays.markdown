@@ -20,8 +20,13 @@ title: Essays
     <ul style="list-style-type: none; padding-left: 0;">
         <li style="margin-bottom: 30px;">
             <span style="color: #888; font-size: 0.85em; display: block; margin-bottom: 4px;">Jan 2026</span>
-            <a href="{{ '/essays/first-essay' | relative_url }}" style="font-weight: bold; font-size: 1.1em;">The Value of Minimalist Design</a>
-            <p style="margin-top: 8px; font-size: 0.95em; color: #444;">Why I decided to strip away the noise and build a simple digital garden on my own terms.</p>
+            <a href="{{ '/essays/first-essay' | relative_url }}" style="font-weight: bold; font-size: 1.1em;">Essay_1</a>
+            <p style="margin-top: 8px; font-size: 0.95em; color: #444;">Why I decided to improve SNR and build a simple digital garden.</p>
+        </li>
+        <li style="margin-bottom: 30px;">
+            <span style="color: #888; font-size: 0.85em; display: block; margin-bottom: 4px;">Dec 2025</span>
+            <a href="{{ '/essays/first-essay' | relative_url }}" style="font-weight: bold; font-size: 1.1em;">Essay_2</a>
+            <p style="margin-top: 8px; font-size: 0.95em; color: #444;">Changing the process.</p>
         </li>
         
         </ul>
@@ -34,7 +39,8 @@ title: Essays
 <div id="content">
     <h2>Essays</h2>
     <ul>
-        <li>Jan 2026: <a href="{{ '/essays/first-essay' | relative_url }}">The Value of Minimalist Design</a></li>
+        <li>Jan 2026: <a href="{{ '/essays/first-essay' | relative_url }}">Essay_1</a></li>
+        <li>Dec 2025: <a href="{{ '/essays/first-essay' | relative_url }}">Essay_2</a></li>
     </ul>
 </div>
 
