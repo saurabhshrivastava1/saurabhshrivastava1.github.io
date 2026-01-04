@@ -1,24 +1,30 @@
 ---
-layout: default
+layout: null
 title: Home
 ---
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
+    <title>Saurabh Shrivastava</title>
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
 
-<h2 style="margin-top: 0;">Saurabh Shrivastava</h2>
-<p>I'm a builder. This is my corner of the internet.</p>
+<div id="menu">
+    <span class="title">Saurabh Shrivastava</span>
+    <ul>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/essays' | relative_url }}">Essays</a></li>
+        <li><a href="{{ '/books' | relative_url }}">Bookshelf</a></li>
+        <li><a href="{{ '/now' | relative_url }}">Now</a></li>
+        <li><a href="https://github.com/saurabhshrivastava1">GitHub</a></li>
+    </ul>
+</div>
 
-<h3 style="font-size: 1em; text-transform: uppercase; letter-spacing: 1px; color: #888; margin-top: 2em;">Writing & Lists</h3>
-<ul style="list-style-type: none; padding-left: 0; line-height: 2;">
-    <li><a href="{{ '/essays' | relative_url }}">Essays</a></li>
-    <li><a href="{{ '/books' | relative_url }}">Books</a></li>
-    <li><a href="https://github.com/saurabhshrivastava1">GitHub</a></li>
-</ul>
+<div id="content">
+    <h2>Welcome</h2>
+    <p>I'm a builder. This is my corner of the internet, inspired by the minimalist aesthetic of the early web.</p>
+</div>
 
 </body>
 </html>
