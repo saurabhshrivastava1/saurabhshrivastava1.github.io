@@ -1,44 +1,73 @@
 ---
 ---
 body {
-  font-family: "Georgia", "Times New Roman", Times, serif;
-  background-color: #fdfdfd; 
-  color: #111;
-  line-height: 1.7;
-  font-size: 19px;
-  -webkit-font-smoothing: antialiased;
-
-  /* This is the Patrick Collison "offset" trick */
-  max-width: 600px;
-  margin-top: 80px;
-  margin-bottom: 80px;
-  
-  /* On large screens, push the content to the right */
-  margin-left: 25%; 
-  padding-right: 40px;
+    font-family: Georgia, serif;
+    font-size: 13.5px;
+    color: #000;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
 }
 
-/* On mobile phones, we don't want it pushed to the right */
-@media (max-width: 800px) {
-  body {
-    margin-left: auto;
-    margin-right: auto;
-    padding: 20px;
-  }
+/* Sidebar: Exactly 40px from the left and top */
+#menu {
+    position: absolute;
+    left: 40px;
+    top: 35px;
+    width: 140px;
 }
 
-h1, h2, h3 {
-  color: #000;
-  font-weight: 400;
-  margin-top: 1.5em;
+#menu .title {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 12px;
+    font-size: 12px; /* reduced font size for "Saurabh Shrivastava" */
+    line-height: 1;
 }
 
-a {
-  color: #1a5fb4;
-  text-decoration: none;
-  border-bottom: 1px solid #eee;
+#menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
 
-a:hover {
-  border-bottom: 1px solid #1a5fb4;
+#menu li {
+    margin-bottom: 1px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #555;
+}
+
+#menu a:hover {
+    text-decoration: underline;
+}
+
+/* Content: Starts at 240px to create that wide left margin */
+#content {
+    margin-left: 240px;
+    margin-top: 35px;
+    max-width: 550px;
+    padding-right: 40px;
+    padding-bottom: 100px;
+    line-height: 1.45;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+/* Responsive: stack on mobile */
+@media (max-width: 650px) {
+    #menu { position: relative; left: 20px; top: 20px; width: auto; }
+    #content { margin-left: 20px; margin-top: 40px; padding-right: 20px; }
 }
