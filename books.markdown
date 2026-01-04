@@ -25,8 +25,12 @@ layout: null
     <p>A collection of things I've read and liked.</p>
     <ul>
         <li><strong>AI Superpowers</strong> — Kai Fu Lee</li>
+        <li><strong>AI 2041</strong> — Kai Fu Lee</li>
+        <li><strong>The Singularity Is Nearer</strong> — Ray Kurzweil</li>
         <li><strong>The Coming Wave</strong> — Mustafa Suleyman</li>
-        </ul>
+        <li><strong>Age of AI</strong> — Eric Schmidt, Et al. </li>
+        <li><strong>The Master Algorithm</strong> — Pedro Domingos</li>
+    </ul>
 </div>
 
 </body>
