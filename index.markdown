@@ -1,6 +1,6 @@
 ---
 layout: null
-title: Home
+title: About
 ---
 <html>
 <head>
@@ -13,16 +13,14 @@ title: Home
 <div id="menu">
     <span class="title">Saurabh Shrivastava</span>
     <ul>
-        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/' | relative_url }}">About</a></li>
         <li><a href="{{ '/essays' | relative_url }}">Essays</a></li>
         <li><a href="{{ '/books' | relative_url }}">Bookshelf</a></li>
-        <li><a href="{{ '/now' | relative_url }}">Now</a></li>
         <li><a href="https://github.com/saurabhshrivastava1">GitHub</a></li>
     </ul>
 </div>
 
 <div id="content">
-    <h2>Welcome</h2>
     <p>I'm a builder. This is my corner of the internet, inspired by the minimalist aesthetic of the early web.</p>
 </div>
 

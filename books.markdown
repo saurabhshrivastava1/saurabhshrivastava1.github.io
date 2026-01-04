@@ -16,7 +16,6 @@ layout: null
         <li><a href="{{ '/' | relative_url }}">Home</a></li>
         <li><a href="{{ '/essays' | relative_url }}">Essays</a></li>
         <li><a href="{{ '/books' | relative_url }}">Bookshelf</a></li>
-        <li><a href="{{ '/now' | relative_url }}">Now</a></li>
         <li><a href="https://github.com/saurabhshrivastava1">GitHub</a></li>
     </ul>
 </div>
