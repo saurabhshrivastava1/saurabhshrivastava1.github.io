@@ -54,11 +54,22 @@ body {
     line-height: 1.45;
 }
 
-h2 {
+/* Ensure page headings and post titles match exactly */
+#content > h2,
+article.post .post-title {
+    font-family: Georgia, serif;
     font-size: 18px;
     font-weight: normal;
     margin-top: 0;
     margin-bottom: 15px;
+}
+
+/* Tighten spacing under h3 and allow no-gap paragraphs */
+h3 {
+    font-size: 15px;
+    font-weight: bold; /* make h3 bold */
+    margin-top: 0;
+    margin-bottom: 0; /* no gap after h3 */
 }
 
 p {
@@ -66,8 +77,47 @@ p {
     margin-bottom: 15px;
 }
 
+p.notop {
+    margin-top: 0; /* helper class to remove top spacing where desired */
+}
+
+/* Post page tweaks: match Bookshelf heading typography */
+article.post .post-meta { display: none; }
+article.post .post-title {
+    font-family: Georgia, serif; /* same serif family */
+    font-size: 18px; /* match Bookshelf h2 size */
+    font-weight: normal; /* match Bookshelf weight */
+    margin-top: 0;
+    margin-bottom: 15px; /* match h2 spacing */
+}
+.post-content {
+    font-family: Georgia, serif; /* ensure post body uses same font */
+    font-size: 13.5px;
+    line-height: 1.45;
+}
+.post-content h2 {
+    font-size: 15px; /* slightly smaller for post section headings */
+    font-weight: bold; /* make section headings bold like About */
+    margin-top: 0;
+    margin-bottom: 0; /* remove gap after heading */
+}
+.post-content h2 + p { margin-top: 0; }
+
+/* Post-specific overrides to match essay page */
+article.post .post-title { font-style: italic; margin-bottom: 5px; }
+article.post .post-meta { display: block; margin-bottom: 30px; }
+article.post .post-meta time { color: #888; font-size: 12px; display: block; }
+.post-content h2, .post-content h3, .post-content h4 {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.post-content h2 + p, .post-content h3 + p, .post-content h4 + p { margin-top: 0; }
+
 /* Responsive: stack on mobile */
 @media (max-width: 650px) {
     #menu { position: relative; left: 20px; top: 20px; width: auto; }
     #content { margin-left: 20px; margin-top: 40px; padding-right: 20px; }
+    article.post .post-title { font-size: 18px; }
 }

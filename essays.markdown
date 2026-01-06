@@ -23,7 +23,8 @@ layout: null
 <div id="content">
     <p>This space is for few of my ideas and thoughts.</p>
     <ul>
-        <li><strong>Essay1</strong> — on xyz </li>
+        <li><a href="{{ '/essays/essay1.html' | relative_url }}">The Value of Minimalist Design</a> — an essay on minimalist web design</li>
+        <li><a href="{{ '/essays/economics.html' | relative_url }}">Economics</a> — notes on division of labour, comparative advantage, and the tragedy of the commons</li>
         <li><strong>Essay2</strong> — on abc</li>
         </ul>
 </div>
