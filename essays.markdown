@@ -5,8 +5,11 @@ layout: null
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Bookshelf · Saurabh Shrivastava</title>
+    <title>Essays · Saurabh Shrivastava</title>
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+    <link rel="icon" href="data:,">
+    <link rel="apple-touch-icon" href="data:,">
+    <link rel="apple-touch-icon-precomposed" href="data:,">
 </head>
 <body>
 
@@ -25,6 +28,7 @@ layout: null
     <ul>
         <li><a href="{{ '/essays/essay1.html' | relative_url }}">The Value of Minimalist Design</a> — an essay on minimalist web design</li>
         <li><a href="{{ '/essays/essay2.html' | relative_url }}">Economics</a> — notes on division of labour, comparative advantage, and the tragedy of the commons</li>
+        <li><a href="{{ '/essays/essay3.html' | relative_url }}">Agentic Commerce</a> — an essay on impact of ecommerce to acommerce shift </li>
         <li><strong>Essay2</strong> — on abc</li>
         </ul>
 </div>

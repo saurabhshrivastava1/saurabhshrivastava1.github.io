@@ -7,6 +7,9 @@ layout: null
   <meta charset="utf-8">
   <title>Economics · Saurabh Shrivastava</title>
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <link rel="icon" href="data:,">
+  <link rel="apple-touch-icon" href="data:,">
+  <link rel="apple-touch-icon-precomposed" href="data:,">
 </head>
 <body>
 
