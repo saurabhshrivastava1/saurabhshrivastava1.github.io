@@ -64,10 +64,10 @@ layout: null
     A-commerce presents many opportunities for agentic ai platforms while challenges to retailers. Agentic ai platforms will act as front end of shopping while retailers will act as back-end infrastructure for ai agents and risk being largely invisible to the customers. Customers will benefit from significant time savings, reduced cognitive efforts, and a larger pool of products to choose from across multiple retailers. </p>
 
 
-    <p> Notes: 
-     [1] E-commerce uses recommendations across the customer journey to influence buying, Home pages use ‘trending now’, ‘best seller’ for new customers; and ‘Pick up where you left off’ and ‘inspired by your recent history’ for returning customers. Product detail pages use ‘similar products’ to cross-sell and ‘frequently bought together’ to bundle or upsell. Checkout pages use low cost products in ‘people also bought these accessories’ to induce impulse purchase. 
+    <p> Notes: </p>
+    <p> [1] E-commerce uses recommendations across the customer journey to influence buying, Home pages use ‘trending now’, ‘best seller’ for new customers; and ‘Pick up where you left off’ and ‘inspired by your recent history’ for returning customers. Product detail pages use ‘similar products’ to cross-sell and ‘frequently bought together’ to bundle or upsell. Checkout pages use low cost products in ‘people also bought these accessories’ to induce impulse purchase. </p>
 
-     [2] Moving away from CPC (cost per click) to CPAC (cost per api call) as retailer’s data will not be clicked by humans directly in search and compare steps but accessed by agentic ai’s api calls in the back end. </p>
+     <p> [2] Moving away from CPC (cost per click) to CPAC (cost per api call) as retailer’s data will not be clicked by humans directly in search and compare steps but accessed by agentic ai’s api calls in the back end. </p>
 
 
     <hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
