@@ -16,10 +16,10 @@ layout: null
 <div id="menu">
     <span class="title">Saurabh Shrivastava</span>
     <ul>
-        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/' | relative_url }}">About</a></li>
         <li><a href="{{ '/essays' | relative_url }}">Essays</a></li>
         <li><a href="{{ '/books' | relative_url }}">Bookshelf</a></li>
-        <li><a href="{{ '/now' | relative_url }}">Now</a></li>
+        <li><a href="https://github.com/saurabhshrivastava1">GitHub</a></li>
     </ul>
 </div>
 
@@ -101,16 +101,6 @@ layout: null
 
 
 
-
-
-
-
-
-
-
-    <hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
-    
-    <p style="font-size: 12px; color: #666;">Thanks for reading. You can find me on <a href="https://github.com/saurabhshrivastava1">GitHub</a>.</p>
 </div>
 
 </body>

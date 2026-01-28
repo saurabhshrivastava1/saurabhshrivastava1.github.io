@@ -16,10 +16,10 @@ layout: null
 <div id="menu">
     <span class="title">Saurabh Shrivastava</span>
     <ul>
-        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/' | relative_url }}">About</a></li>
         <li><a href="{{ '/essays' | relative_url }}">Essays</a></li>
         <li><a href="{{ '/books' | relative_url }}">Bookshelf</a></li>
-        <li><a href="{{ '/now' | relative_url }}">Now</a></li>
+        <li><a href="https://github.com/saurabhshrivastava1">GitHub</a></li>
     </ul>
 </div>
 
@@ -27,7 +27,7 @@ layout: null
     <h2 style="font-style: italic; margin-bottom: 5px;">Agentic Commerce</h2>
     <p style="color: #888; font-size: 12px; margin-bottom: 30px;">January 2026</p>
 
-    <p> Evolution from E-commerce to Agentic commerce (A-commerce) and its implications for the stakeholders </p> 
+    <p> Evolution from E-commerce to Agentic commerce (A-commerce) and its implications on the stakeholders </p> 
    
     <p> A-commerce is a fundamental shift in the retail operating system, not only an incremental upgrade of e-commerce. While e-commerce moved stores onto screens, a-commerce introduces a personal, AI-powered buying agent into everyday life. </p>
    
@@ -79,9 +79,6 @@ layout: null
      <p> [2] Moving away from CPC (cost per click) to CPAC (cost per api call) as retailer’s data will not be clicked by humans directly in search and compare steps but accessed by agentic ai’s api calls in the back end. </p>
 
 
-    <hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
-    
-    <p style="font-size: 12px; color: #666;">Thanks for reading. You can find me on <a href="https://github.com/saurabhshrivastava1">GitHub</a>.</p>
 </div>
 
 </body>
