@@ -31,8 +31,8 @@ title: About
 <p>Things I'm involved with and areas of interest:</p>
 
 <ul>
-    <li> <b> Ecommerce. </b> <a href="https://amazon.com"> Amazon's</a> core business. </li>
-    <li> <b> Agentic AI.</b> Interested in evolving space of agentic ai. Recently wrote my thoughts on how <a href="https://saurabhshrivastava1.github.io/essays/essay3.html"> Agentic Commerce </a> agentic commerce would impact various stakeholders. 
+    <li> <b> Ecommerce. </b> <a href="https://amazon.com"> Amazon</a> 's core business. </li>
+    <li> <b> Agentic AI.</b> Interested in evolving space of agentic ai. Recently wrote my thoughts on how <a href="https://saurabhshrivastava1.github.io/essays/essay3.html"> agentic commerce </a> would impact various stakeholders. 
     </li>
     <li> <b> Good reads.</b> 
     <a href="https://www.paulgraham.com/articles.html">Essays</a> by Paul Graham. 
@@ -55,8 +55,8 @@ title: About
 
 <ul>
     <li>Agentic Commerce: Evolution from E-commerce to Agentic commerce (A-commerce) and its implications on the stakeholders - <a href="http://localhost:4001/essays/essay3.html"> Link </a> .</li>
-    <li>Agentic From RPA to Agentic AI: How Great Leaders Navigate a Shifting Tech Landscape by Asking Better Questions - <a href="http://localhost:4001/essays/essay4.html"> Link </a> .</li>
-    <li>Agentic AI vs LLM Chaining: A Practical Framework for AI Product Leaders - <a href="https://www.linkedin.com/pulse/agentic-ai-vs-llm-chaining-practical-framework-saurabh-shrivastava-odtqf"> Link </a> .</li>
+    <li>From RPA to Agentic AI: How great leaders navigate a shifting tech landscape by asking better questions - <a href="http://localhost:4001/essays/essay4.html"> Link </a> .</li>
+    <li>Agentic AI vs LLM Chaining: A practical framework for AI product leaders - <a href="https://www.linkedin.com/pulse/agentic-ai-vs-llm-chaining-practical-framework-saurabh-shrivastava-odtqf"> Link </a> .</li>
 </ul>
 
 </div>
