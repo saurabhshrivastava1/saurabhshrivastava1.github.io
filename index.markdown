@@ -32,8 +32,7 @@ title: About
 
 <ul>
     <li> <b> Ecommerce. </b> <a href="https://amazon.com"> Amazon's</a> core business. </li>
-    <li> <b> Agentic AI.</b> <p> <a href="https://saurabhshrivastava1.github.io/essays/essay3.html"> Ageentic Commerce </a> Recently wrote this article on Agentic Commerce. </p> 
-    <p> <a href="https://www.linkedin.com/posts/activity-7350784043229073410-ksEE?utm_source=share&utm_medium=member_desktop&rcm=ACoAABlZtF4BdqfK98eG7ruSfhRGzsZklHnkrKA"> RPA to Agentic AI </a> Article on what the constants for leader in the world of rapidly developing technologies. Drawing lessons from what stayed the same in transition from RPA to Agentic AI. </p>
+    <li> <b> Agentic AI.</b> Interested in evolving space of agentic ai. Recently wrote my thoughts on how <a href="https://saurabhshrivastava1.github.io/essays/essay3.html"> Agentic Commerce </a> agentic commerce would impact various stakeholders. 
     </li>
     <li> <b> Good reads.</b> 
     <a href="https://www.paulgraham.com/articles.html">Essays</a> by Paul Graham. 
@@ -52,11 +51,11 @@ title: About
 <p class="notop"><a href="https://github.com/saurabhshrivastava1">saurabh</a> on GitHub; <a href="https://twitter.com/saurabhshri11">saurabh</a> on Twitter.</p>
 
 <h3>Articles</h3>
-<p class="notop">A few articles from the past few year on Agentic AI.</p>
+<p class="notop">A few articles on Agentic AI.</p>
 
 <ul>
     <li>Agentic Commerce: Evolution from E-commerce to Agentic commerce (A-commerce) and its implications on the stakeholders - <a href="http://localhost:4001/essays/essay3.html"> Link </a> .</li>
-    <li>Agentic From RPA to Agentic AI: How Great Leaders Navigate a Shifting Tech Landscape by Asking Better Questions - <a href="https://www.linkedin.com/pulse/from-rpa-agentic-ai-how-great-leaders-navigate-tech-shrivastava-fyvfc"> Link </a> .</li>
+    <li>Agentic From RPA to Agentic AI: How Great Leaders Navigate a Shifting Tech Landscape by Asking Better Questions - <a href="http://localhost:4001/essays/essay4.html"> Link </a> .</li>
     <li>Agentic AI vs LLM Chaining: A Practical Framework for AI Product Leaders - <a href="https://www.linkedin.com/pulse/agentic-ai-vs-llm-chaining-practical-framework-saurabh-shrivastava-odtqf"> Link </a> .</li>
 </ul>
 
