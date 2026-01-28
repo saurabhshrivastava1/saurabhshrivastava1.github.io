@@ -24,7 +24,7 @@ title: About
 </div>
 
 <div id="content">
-    <p> I'm a builder. This is my corner of the internet where I intend to share about things I am working on, thoughts and learnings, and cool stuff I am reading about. I currently live in California and work at <a href="https://amazon.com">Amazon</a>. I grew up in India and previously studied at UW and IIM-C.</p>
+    <p> I'm a thinker and builder. In this corner of internet I intend to share things I am interested in, learnings, and thoughts. I currently live in California and work at <a href="https://amazon.com">Amazon</a>. I grew up in India and previously studied at UW and IIM-C.</p>
 
 <p>Email: <a href="mailto:saurabhshrivast@icloud.com">saurabhshrivast@icloud.com</a>.</p>
 
