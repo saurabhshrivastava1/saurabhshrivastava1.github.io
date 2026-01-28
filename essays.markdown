@@ -26,10 +26,8 @@ layout: null
 <div id="content">
     <p>This space is for few of my ideas and thoughts.</p>
     <ul>
-        <li><a href="{{ '/essays/essay1.html' | relative_url }}">The Value of Minimalist Design</a> — an essay on minimalist web design</li>
-        <li><a href="{{ '/essays/essay2.html' | relative_url }}">Economics</a> — notes on division of labour, comparative advantage, and the tragedy of the commons</li>
-        <li><a href="{{ '/essays/essay3.html' | relative_url }}">Agentic Commerce</a> — an essay on impact of ecommerce to acommerce shift </li>
-        <li><strong>Essay2</strong> — on abc</li>
+        <li><a href="{{ '/essays/essay2.html' | relative_url }}">Economics</a> — Notes on interesting economic concepts like division of labour, comparative advantage, and the tragedy of the commons. </li>
+        <li><a href="{{ '/essays/essay3.html' | relative_url }}">Agentic Commerce</a> The evolution from E-commerce to A-commerce and its implications for the stakeholders. </li>
         </ul>
 </div>
 
