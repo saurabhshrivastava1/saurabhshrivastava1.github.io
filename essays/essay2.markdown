@@ -24,7 +24,7 @@ layout: null
 </div>
 
 <div id="content">
-    <h2 style="font-style: italic; margin-bottom: 5px;">Economics</h2>
+    <h2 style="font-style: italic; margin-bottom: 5px;">Concepts: Economics & Productivity</h2>
     <p style="color: #888; font-size: 12px; margin-bottom: 30px;">January 2026</p>
 
     <li> <b> Moravec's paradox </b> 
